@@ -1,0 +1,58 @@
+C:\Users\USER\source\repos\FaceID Protocol\FaceID Protocol\bin\Debug\FaceID Protocol.exe.config
+C:\Users\USER\source\repos\FaceID Protocol\FaceID Protocol\bin\Debug\FaceID Protocol.exe
+C:\Users\USER\source\repos\FaceID Protocol\FaceID Protocol\bin\Debug\FaceID Protocol.pdb
+C:\Users\USER\source\repos\FaceID Protocol\FaceID Protocol\bin\Debug\MetroFramework.Design.dll
+C:\Users\USER\source\repos\FaceID Protocol\FaceID Protocol\bin\Debug\MetroFramework.dll
+C:\Users\USER\source\repos\FaceID Protocol\FaceID Protocol\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\USER\source\repos\FaceID Protocol\FaceID Protocol\obj\Debug\FaceID_Protocol.FaceID.resources
+C:\Users\USER\source\repos\FaceID Protocol\FaceID Protocol\obj\Debug\FaceID_Protocol.Properties.Resources.resources
+C:\Users\USER\source\repos\FaceID Protocol\FaceID Protocol\obj\Debug\FaceID Protocol.csproj.GenerateResource.Cache
+C:\Users\USER\source\repos\FaceID Protocol\FaceID Protocol\obj\Debug\FaceID Protocol.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\FaceID Protocol\FaceID Protocol\obj\Debug\FaceID Protocol.exe
+C:\Users\USER\source\repos\FaceID Protocol\FaceID Protocol\obj\Debug\FaceID Protocol.pdb
+C:\Users\USER\source\repos\FaceID Protocol\FaceID Protocol\obj\Debug\FaceID Protocol.csprojResolveAssemblyReference.cache
+C:\Users\USER\source\repos\FaceID Protocol\FaceID Protocol\bin\Debug\x64\concrt140.dll
+C:\Users\USER\source\repos\FaceID Protocol\FaceID Protocol\bin\Debug\x64\cvextern.dll
+C:\Users\USER\source\repos\FaceID Protocol\FaceID Protocol\bin\Debug\x64\msvcp140.dll
+C:\Users\USER\source\repos\FaceID Protocol\FaceID Protocol\bin\Debug\x64\opencv_ffmpeg330_64.dll
+C:\Users\USER\source\repos\FaceID Protocol\FaceID Protocol\bin\Debug\x64\vcruntime140.dll
+C:\Users\USER\source\repos\FaceID Protocol\FaceID Protocol\bin\Debug\x86\concrt140.dll
+C:\Users\USER\source\repos\FaceID Protocol\FaceID Protocol\bin\Debug\x86\cvextern.dll
+C:\Users\USER\source\repos\FaceID Protocol\FaceID Protocol\bin\Debug\x86\msvcp140.dll
+C:\Users\USER\source\repos\FaceID Protocol\FaceID Protocol\bin\Debug\x86\opencv_ffmpeg330.dll
+C:\Users\USER\source\repos\FaceID Protocol\FaceID Protocol\bin\Debug\x86\vcruntime140.dll
+C:\Users\USER\source\repos\FaceID Protocol\FaceID Protocol\bin\Debug\Accord.dll.config
+C:\Users\USER\source\repos\FaceID Protocol\FaceID Protocol\bin\Debug\Accord.dll
+C:\Users\USER\source\repos\FaceID Protocol\FaceID Protocol\bin\Debug\Accord.Imaging.dll
+C:\Users\USER\source\repos\FaceID Protocol\FaceID Protocol\bin\Debug\Accord.Math.Core.dll
+C:\Users\USER\source\repos\FaceID Protocol\FaceID Protocol\bin\Debug\Accord.Math.dll
+C:\Users\USER\source\repos\FaceID Protocol\FaceID Protocol\bin\Debug\Accord.Statistics.dll
+C:\Users\USER\source\repos\FaceID Protocol\FaceID Protocol\bin\Debug\Accord.Video.DirectShow.dll
+C:\Users\USER\source\repos\FaceID Protocol\FaceID Protocol\bin\Debug\Accord.Video.dll
+C:\Users\USER\source\repos\FaceID Protocol\FaceID Protocol\bin\Debug\Emgu.CV.UI.dll
+C:\Users\USER\source\repos\FaceID Protocol\FaceID Protocol\bin\Debug\Emgu.CV.World.dll
+C:\Users\USER\source\repos\FaceID Protocol\FaceID Protocol\bin\Debug\ZedGraph.dll
+C:\Users\USER\source\repos\FaceID Protocol\FaceID Protocol\bin\Debug\Accord.xml
+C:\Users\USER\source\repos\FaceID Protocol\FaceID Protocol\bin\Debug\Accord.Imaging.xml
+C:\Users\USER\source\repos\FaceID Protocol\FaceID Protocol\bin\Debug\Accord.Math.xml
+C:\Users\USER\source\repos\FaceID Protocol\FaceID Protocol\bin\Debug\Accord.Math.Core.xml
+C:\Users\USER\source\repos\FaceID Protocol\FaceID Protocol\bin\Debug\Accord.Statistics.xml
+C:\Users\USER\source\repos\FaceID Protocol\FaceID Protocol\bin\Debug\Accord.Video.xml
+C:\Users\USER\source\repos\FaceID Protocol\FaceID Protocol\bin\Debug\Accord.Video.DirectShow.xml
+C:\Users\USER\source\repos\FaceID Protocol\FaceID Protocol\bin\Debug\Emgu.CV.UI.xml
+C:\Users\USER\source\repos\FaceID Protocol\FaceID Protocol\bin\Debug\Emgu.CV.World.xml
+C:\Users\USER\source\repos\FaceID Protocol\FaceID Protocol\bin\Debug\ZedGraph.xml
+C:\Users\USER\source\repos\FaceID Protocol\FaceID Protocol\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\USER\source\repos\FaceID Protocol\FaceID Protocol\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\USER\source\repos\FaceID Protocol\FaceID Protocol\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\USER\source\repos\FaceID Protocol\FaceID Protocol\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\USER\source\repos\FaceID Protocol\FaceID Protocol\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\USER\source\repos\FaceID Protocol\FaceID Protocol\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\USER\source\repos\FaceID Protocol\FaceID Protocol\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\USER\source\repos\FaceID Protocol\FaceID Protocol\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\USER\source\repos\FaceID Protocol\FaceID Protocol\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\USER\source\repos\FaceID Protocol\FaceID Protocol\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\USER\source\repos\FaceID Protocol\FaceID Protocol\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\USER\source\repos\FaceID Protocol\FaceID Protocol\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\USER\source\repos\FaceID Protocol\FaceID Protocol\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\USER\source\repos\FaceID Protocol\FaceID Protocol\bin\Debug\Tulpep.NotificationWindow.dll
